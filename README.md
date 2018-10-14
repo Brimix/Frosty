@@ -1,7 +1,7 @@
 # Frosty
 This is You've Gone Incognito's alternative ACM-ICPC reference book.
 
-Hi! We are ":$" (a.k.a "You've Gone Incognito :$"), an ACM-ICPC team.
+Hi! We are "incognito" (a.k.a "You've Gone Incognito :$"), an ACM-ICPC team.
 
 You can find our main reference book, "Olaf", here: https://github.com/mredigonda/olaf
 
